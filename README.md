@@ -30,7 +30,7 @@ Key Excel Skills Demonstrated
 
 ---
 
-## Power BI Dashboard : ![Executive Summary](Financial_Performance_Dashboard.pdf)
+## Power BI Dashboard : ![Executive Summary](dashboard_overview.pdf)
 File: Financial_Performance_Dashboard.pdf
 
 Built on the same Superstore dataset. The report has three pages:
